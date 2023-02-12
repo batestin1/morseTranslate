@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/static/v1?label=morseTranslate%20POR&message=Bates&color=7159c1&style=flat-square&logo=ghost"/>
 
-<h3> <p align="center">Morse TranslateE </p> </h3>
+<h3> <p align="center">Morse Translate </p> </h3>
 
 <h3> <p align="center"> ================= </p> </h3>
 
